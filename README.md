@@ -4,7 +4,7 @@
 To develop a 2D game using C# program in Unity.
 
 ## ALGORITHM:
-STEP 1: Create a 2D project in Unity.
+STEP 1: Create a 2D project in Unity. 
 
 STEP 2: Add player, hurdles, coins, track in the frame and add the valid collider2D component.
 
